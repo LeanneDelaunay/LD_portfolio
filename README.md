@@ -6,7 +6,7 @@ Data Analyst portfolio
 Ce projet a été réalisé lors de ma formation de Data Analyst en collaboration avec Raphaële ADDALA et Alioune Badara SARR.
 Son objectif est de prédire les réusltats d'une campagne marketing dans le secteur bancaire.
 
-* Le dataset est disponible publiquement sur Kaggle : https://www.kaggle.com/janiobachmann/bank-marketing-dataset
+* Le dataset est disponible publiquement sur [Kaggle](https://www.kaggle.com/janiobachmann/bank-marketing-dataset)
 * Pour répondre à cette problématique de classification bainaire, plusieurs modèles de classification binaire ont été entrainés et optimisés afin de sélectionner le plus performant 
 * Algorithmes utilisés : Régression logistique, Arbres de décision , Random Forests, SVM, Adaboost, XGBoost
 * Algorithmes optimisés : Random Forest, SVM et XGBoost
@@ -17,5 +17,5 @@ Son objectif est de prédire les réusltats d'une campagne marketing dans le sec
 
 Ce projet personnel a pour but de construire un algorithme qui permet de détecter une maladie chronique rénale à partir des résultats d'un bilan sanguin.
 
-* Le dataset est disponible publiquement sur Kaggle : https://www.kaggle.com/datasets/mansoordaku/ckdisease
+* Le dataset est disponible publiquement sur [Kaggle](https://www.kaggle.com/datasets/mansoordaku/ckdisease)
 * Un résumé du projet est disponible sur le site : XXX 
