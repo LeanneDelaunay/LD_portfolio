@@ -1,7 +1,7 @@
 # LD_portfolio
 Data Analyst portfolio
 
-#Projet 1 : Prédiction du succès d’une campagne marketing bancaire
+# Projet 1 : Prédiction du succès d’une campagne marketing bancaire
 
 Ce projet a été réalisé lors de ma formation de Data Analyst en collaboration avec Raphaële ADDALA et Alioune Badara SARR.
 Son objectif est de prédire les réusltats d'une campagne marketing dans le secteur bancaire.
@@ -13,7 +13,7 @@ Son objectif est de prédire les réusltats d'une campagne marketing dans le sec
 * Un résumé du projet est disponible sur le site : XXX 
 
 
-#Projet 2 : Détecter et mieux comprendre la maladie chronique rénale
+# Projet 2 : Détecter et mieux comprendre la maladie chronique rénale
 
 Ce projet personnel a pour but de construire un algorithme qui permet de détecter une maladie chronique rénale à partir des résultats d'un bilan sanguin.
 
