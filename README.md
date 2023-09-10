@@ -20,7 +20,7 @@ Ce projet a pour objectif de mieux comprendre et diagnostiquer la maladie rénal
 * Pour répondre à cette problématique de classification binaire, après une analyse exploratoire, plusieurs modèles ont été entrainés ( SVM, Random Forest, Régression Logistique).
 * La Random Forest a été sélectionnée pour ces résultats performant puis interprétée.
 
-# [Projet 2 : _Segmenter les_clients_d'une enseigne pour adapter sa stratégie marketing et commerciale](https://github.com/LeanneDelaunay/Projet_Segmentation_clients_enseigne)
+# [Projet 2 : _Segmenter les clients_d'une enseigne pour otpimiser la stratégie marketing et commerciale](https://github.com/LeanneDelaunay/Projet_Segmentation_clients_enseigne)
 
 Ce projet a pour objectif de segmenter les clients d'un magasin.
 
