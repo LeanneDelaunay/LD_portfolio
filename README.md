@@ -12,7 +12,7 @@ Son objectif est de prédire les réusltats d'une campagne marketing dans le sec
 * Algorithmes optimisés : Random Forest, SVM et XGBoost
 
 
-#[Projet 2 : Détecter et mieux comprendre la maladie chronique rénale](https://github.com/LeanneDelaunay/Projet_Maladie_renale_chronique)
+#Projet 2 : [Détecter et mieux comprendre la maladie chronique rénale](https://github.com/LeanneDelaunay/Projet_Maladie_renale_chronique)
 
 Ce projet personnel a pour but de construire un algorithme qui permet de détecter une maladie chronique rénale à partir des résultats d'un bilan sanguin.
 
