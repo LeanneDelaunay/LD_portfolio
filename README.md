@@ -14,7 +14,8 @@ Son objectif est de prédire les réusltats d'une campagne marketing dans le sec
 
 # [Projet 2 : Détecter et mieux comprendre la maladie chronique rénale](https://github.com/LeanneDelaunay/Projet_Maladie_renale_chronique)
 
-Ce projet personnel a pour but de construire un algorithme qui permet de détecter une maladie chronique rénale à partir des résultats d'un bilan sanguin.
+Ce projet a pour objectif de mieux comprendre et diagnostiquer la maladie rénale chronique à partir d'une bilan sanguin et urinaire.
 
-* Le dataset est disponible publiquement sur [Kaggle](https://www.kaggle.com/datasets/mansoordaku/ckdisease)
-
+* Le dataset utilisé est disponible publiquement sur le site [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/336/chronic+kidney+disease).
+* Pour répondre à cette problématique de classification binaire, après une analyse exploratoire, plusieurs modèles ont été entrainés ( SVM, Random Forest, Régression Logistique).
+* La Random Forest a été sélectionnée pour ces résultats performant puis interprétée.
