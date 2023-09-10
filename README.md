@@ -1,7 +1,7 @@
 # LD_portfolio
 Data Analyst portfolio
 
-# Projet 1 : Prédiction du succès d’une campagne marketing bancaire
+# [Projet 1 : Prédiction du succès d’une campagne marketing bancaire](https://github.com/LeanneDelaunay/Prediction_resultats_campagne_marketing)
 
 Ce projet a été réalisé lors de ma formation de Data Analyst en collaboration avec Raphaële ADDALA et Alioune Badara SARR.
 Son objectif est de prédire les réusltats d'une campagne marketing dans le secteur bancaire.
